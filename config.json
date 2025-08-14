@@ -1,5 +1,7 @@
 {
     "revision": 1,
     "imageUrl": "https://github.com/bakshish-s/evermore-cloud/blob/main/evermore%20cup.png?raw=true",
-    "placement": "submit_score"
+    "placement": "submit_score",
+    "width": 994,
+    "height": 1464
 }
