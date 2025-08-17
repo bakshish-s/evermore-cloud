@@ -10,6 +10,10 @@
         "step_1": "STEP 1: Create a free Skillz account & wallet to store winnings",
         "step_2": "STEP 2: Select \"View More\" to see all available Evermore Cups",
         "step_3": "STEP 3: PLAY EVERMORE CUPS!\n$5,000+ in giveaways every week, play daily. You keep what you win. NO DEPOSITS necessary",
-        "footer": "NO DEPOSITS NECESSARY TO WIN & WITHDRAW CASH"
+        "footer": "NO DEPOSITS NECESSARY TO WIN & WITHDRAW CASH",
+        "step_1_image": "",
+        "step_2_image":"https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/step2.png",
+        "step_3_image":"http://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/step3.png",
+        "repeat": "-1"
     }
 }
