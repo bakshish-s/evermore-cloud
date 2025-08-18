@@ -7,9 +7,9 @@
     "show": 1,
     "repeat": 10,
     "evermore_cup":{
-        "step_1": "STEP 1: Create a free Skillz account & wallet to store winnings",
-        "step_2": "STEP 2: Select \"View More\" to see all available Evermore Cups",
-        "step_3": "STEP 3: PLAY EVERMORE CUPS!\n$5,000+ in giveaways every week, play daily. You keep what you win. NO DEPOSITS necessary",
+        "step_1": "We've partnered with Skillz",
+        "step_2": "To create a new & free way to build your wallet with cash",
+        "step_3": "Just by playing in our free tournaments that literally give away cash to players 4x a day",
         "footer": "NO DEPOSITS NECESSARY TO WIN & WITHDRAW CASH",
         "step_1_image": "",
         "step_2_image":"https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/step3.png",
