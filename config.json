@@ -18,7 +18,7 @@
         "repeat": "-1"
     },
     "skillz_intro":{
-        "steps_status":[1,1,1,1],
+        "steps_status":[1,1,0,0],
         "step_1": "You will see a sign-up screen for Skillz. This is where you store & withdraw your cash. Tap Next",
         "step_2": "To play for free and win cash, look for the Evermore Cup events. Tap View More to see all ongoing events",
         "step_3": "Tap to continue!",
