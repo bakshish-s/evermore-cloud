@@ -46,7 +46,6 @@
             "fire_on": "MATCH_END",
             "delay": "00:05:00",
             "repeat": 0,
-            "repeat_every": "01:00:00",
             "fire_at": ""
         },
         {
@@ -56,7 +55,6 @@
             "fire_on": "",
             "delay": "00:00:00",
             "repeat": 1,
-            "repeat_every": "00:05:00",
             "fire_at": "11:30:00"
         }
     ]
