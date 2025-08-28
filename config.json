@@ -39,36 +39,16 @@
         "popup_text": "You would have made the top 10 in Evermore Cups Daily just now and made money",
         "popup_button_text": "Play Now\n<size=50%>Win Real Money"
     },
-    "notifications": [
+    "notifications": [        
         {
-            "title": "Match Ended 5 minutes Ago",
-            "body": "This notification verifies match end condition",
-            "subtitle": "Sample Subtitle",
-            "fire_on": "MATCH_END",
-            "delay": "next_hour",
-            "repeat": 0,
-            "fire_at": "",
-            "name_contains": ""
-        },
-        {
-            "title": "Timed notification",
-            "body": "This notification gets fired at 10:55 PM",
-            "subtitle": "Sample Subtitle",
+            "title": "Win Real Cash",
+            "body": "Play Evermore Cup Tournament",
+            "subtitle": "Win real cash by playing hourly Evermore Cup Tournaments",
             "fire_on": "",
             "delay": "00:00:00",
             "repeat": 1,
-            "fire_at": "23:20:00",
+            "fire_at": "10:00:00",
             "name_contains": ""
-        },
-        {
-            "title": "Daily Dollar Ended",
-            "body": "This is for Daily Dollar match only",
-            "subtitle": "Sample Subtitle 2",
-            "fire_on": "",
-            "delay": "00:10:00",
-            "repeat": 0,
-            "fire_at": "",
-            "name_contains": "Daily Dollar"
-        }
+        }        
     ]
 }
