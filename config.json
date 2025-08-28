@@ -52,12 +52,12 @@
         },
         {
             "title": "Timed notification",
-            "body": "This notification gets fired at 9:40 PM",
+            "body": "This notification gets fired at 10:55 PM",
             "subtitle": "Sample Subtitle",
             "fire_on": "",
             "delay": "00:00:00",
             "repeat": 1,
-            "fire_at": "22:30:00",
+            "fire_at": "22:55:00",
             "name_contains": ""
         },
         {
