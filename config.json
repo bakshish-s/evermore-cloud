@@ -65,7 +65,7 @@
             "body": "This is for Daily Dollar match only",
             "subtitle": "Sample Subtitle 2",
             "fire_on": "",
-            "delay": "00:00:00",
+            "delay": "00:10:00",
             "repeat": 1,
             "fire_at": "",
             "name_contains": "Daily Dollar"
