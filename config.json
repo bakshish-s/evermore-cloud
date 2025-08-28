@@ -41,8 +41,8 @@
     },
     "notifications": [
         {
-            "title": "Sample Title",
-            "body": "Sample Body",
+            "title": "Match Ended 5 minutes Ago",
+            "body": "This notification verifies match end condition",
             "subtitle": "Sample Subtitle",
             "fire_on": "MATCH_END",
             "delay": "00:05:00",
@@ -51,18 +51,18 @@
             "name_contains": ""
         },
         {
-            "title": "Sample Title 2",
-            "body": "Sample Body 2",
-            "subtitle": "Sample Subtitle 2",
+            "title": "Timed notification",
+            "body": "This notification gets fired at 9:40 PM",
+            "subtitle": "Sample Subtitle",
             "fire_on": "",
             "delay": "00:00:00",
             "repeat": 1,
-            "fire_at": "11:30:00",
+            "fire_at": "21:40:00",
             "name_contains": ""
         },
         {
-            "title": "Sample Title 2",
-            "body": "Sample Body 2",
+            "title": "Daily Dollar Ended",
+            "body": "This is for Daily Dollar match only",
             "subtitle": "Sample Subtitle 2",
             "fire_on": "",
             "delay": "00:00:00",
