@@ -45,7 +45,7 @@
             "body": "This notification verifies match end condition",
             "subtitle": "Sample Subtitle",
             "fire_on": "MATCH_END",
-            "delay": "00:05:00",
+            "delay": "next_hour",
             "repeat": 0,
             "fire_at": "",
             "name_contains": ""
