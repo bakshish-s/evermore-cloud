@@ -8,6 +8,7 @@
     "show": 1,
     "repeat": 10,
     "video_intro": 0,
+    "show_notifications":1,
     "evermore_cup": {
         "show": 0,
         "step_1": "- We've partnered with Skillz",
