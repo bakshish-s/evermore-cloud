@@ -46,7 +46,8 @@
             "fire_on": "MATCH_END",
             "delay": "00:05:00",
             "repeat": 0,
-            "fire_at": ""
+            "fire_at": "",
+            "name_contains": ""
         },
         {
             "title": "Sample Title 2",
@@ -55,7 +56,18 @@
             "fire_on": "",
             "delay": "00:00:00",
             "repeat": 1,
-            "fire_at": "11:30:00"
+            "fire_at": "11:30:00",
+            "name_contains": ""
+        },
+        {
+            "title": "Sample Title 2",
+            "body": "Sample Body 2",
+            "subtitle": "Sample Subtitle 2",
+            "fire_on": "",
+            "delay": "00:00:00",
+            "repeat": 1,
+            "fire_at": "",
+            "name_contains": "Daily Dollar"
         }
     ]
 }
