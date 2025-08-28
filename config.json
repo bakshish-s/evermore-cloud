@@ -2,26 +2,31 @@
     "revision": 1,
     "imageUrl": "https://github.com/bakshish-s/evermore-cloud/blob/main/evermore%20cup.png?raw=true",
     "placement": "submit_score",
-    "show_demo":0,
+    "show_demo": 0,
     "width": 994,
     "height": 1464,
     "show": 1,
     "repeat": 10,
-    "video_intro":0,
-    "evermore_cup":{
-        "show":0,
+    "video_intro": 0,
+    "evermore_cup": {
+        "show": 0,
         "step_1": "- We've partnered with Skillz",
         "step_2": "<size=120%>- New & Free way to build your Wallet with Cash",
         "step_3": "- Just by Playing in Our Free Evermore Cups up to 4x Daily you could win cash to put right into your Skillz Wallet",
         "footer": "NO DEPOSITS NECESSARY TO WIN & WITHDRAW CASH",
         "step_1_image": "",
         "step_2_image": "",
-        "step_3_image":"https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/step2.png",
+        "step_3_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/step2.png",
         "repeat": "-1"
     },
-    "skillz_intro":{
-        "show":0,
-        "steps_status":[0,0,0,0],
+    "skillz_intro": {
+        "show": 0,
+        "steps_status": [
+            0,
+            0,
+            0,
+            0
+        ],
         "step_1": "You Will See a Signup Screen for Skillz - This is Needed to Store the Cash you Win and Withdraw - Create one, Even a Guest one",
         "step_2": "To play for free and win cash, look for the Evermore Cup events. Tap View More to see all ongoing events",
         "step_3": "Tap to continue!",
@@ -32,5 +37,27 @@
         "step_4_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro4.PNG",
         "popup_text": "You would have made the top 10 in Evermore Cups Daily just now and made money",
         "popup_button_text": "Play Now\n<size=50%>Win Real Money"
-    }
+    },
+    "notifications": [
+        {
+            "title": "Sample Title",
+            "body": "Sample Body",
+            "subtitle": "Sample Subtitle",
+            "fire_on": "MATCH_END",
+            "delay": "00:05:00",
+            "repeat": 0,
+            "repeat_every": "01:00:00",
+            "fire_at": ""
+        },
+        {
+            "title": "Sample Title 2",
+            "body": "Sample Body 2",
+            "subtitle": "Sample Subtitle 2",
+            "fire_on": "",
+            "delay": "00:00:00",
+            "repeat": 1,
+            "repeat_every": "00:05:00",
+            "fire_at": "11:30:00"
+        }
+    ]
 }
