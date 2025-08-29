@@ -46,9 +46,53 @@
             "subtitle": "Win real cash by playing hourly Evermore Cup Tournaments",
             "fire_on": "",
             "delay": "00:00:00",
-            "repeat": 1,
+            "repeat": 0,
             "fire_at": "10:00:00",
             "name_contains": ""
-        }        
+        },
+        {
+            "title": "Tournament Ended",
+            "body": "Evermore Overnight Cup Has Ended",
+            "subtitle": "Check your winnings and claim your cash reward. Play more to Win more",
+            "fire_on": "",
+            "delay": "",
+            "repeat": 0,
+            "fire_at": "",
+            "fire_est":"10:00:00",
+            "name_contains": ""
+        },
+        {
+            "title": "Tournament Ended",
+            "body": "Evermore Evening Cup Has Ended",
+            "subtitle": "Check your winnings and claim your cash reward. Play more to Win more",
+            "fire_on": "",
+            "delay": "",
+            "repeat": 0,
+            "fire_at": "",
+            "fire_est":"22:00:00",
+            "name_contains": ""
+        },
+        {
+            "title": "Tournament Ended",
+            "body": "Evermore Morning Cup Has Ended",
+            "subtitle": "Check your winnings and claim your cash reward. Play more to Win more",
+            "fire_on": "",
+            "delay": "",
+            "repeat": 0,
+            "fire_at": "",
+            "fire_est":"14:00:00",
+            "name_contains": ""
+        },
+        {
+            "title": "Tournament Ended",
+            "body": "Evermore Afternoon Cup Has Ended",
+            "subtitle": "Check your winnings and claim your cash reward. Play more to Win more",
+            "fire_on": "",
+            "delay": "",
+            "repeat": 0,
+            "fire_at": "",
+            "fire_est":"18:00:00",
+            "name_contains": ""
+        }
     ]
 }
