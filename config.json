@@ -10,7 +10,7 @@
     "video_intro": 0,
     "show_notifications":1,
     "evermore_cup": {
-        "show": 0,
+        "show": 1,
         "step_1": "- We've partnered with Skillz",
         "step_2": "<size=120%>- New & Free way to build your Wallet with Cash",
         "step_3": "- Just by Playing in Our Free Evermore Cups up to 4x Daily you could win cash to put right into your Skillz Wallet",
@@ -21,20 +21,20 @@
         "repeat": "-1"
     },
     "skillz_intro": {
-        "show": 0,
+        "show": 1,
         "steps_status": [
-            0,
-            0,
-            0,
+            1,
+            1,
+            1,
             0
         ],
-        "step_1": "You Will See a Signup Screen for Skillz - This is Needed to Store the Cash you Win and Withdraw - Create one, Even a Guest one",
-        "step_2": "To play for free and win cash, look for the Evermore Cup events. Tap View More to see all ongoing events",
-        "step_3": "Tap to continue!",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
         "step_4": "This screen can take up to 1-minute to load. Please be patient",
         "step_1_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro1.png",
-        "step_2_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro2.PNG",
-        "step_3_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro3.PNG",
+        "step_2_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro2.png",
+        "step_3_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro3.png",
         "step_4_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro4.PNG",
         "popup_text": "You would have made the top 10 in Evermore Cups Daily just now and made money",
         "popup_button_text": "Play Now\n<size=50%>Win Real Money"
