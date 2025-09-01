@@ -41,7 +41,13 @@
         "popup_text": "You would have made the top 10 in Evermore Cups Daily just now and made money",
         "popup_button_text": "Play Now\n<size=50%>Win Real Money"
     },
-    "notifications": [        
+    "how_it_works":{
+      "show": 1,
+      "repeat":"24:00:00",
+      "background":"https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/background_2.png",
+      "step_1_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/howitworks.png"
+    },
+    "notifications": [
         {
             "title": "Win Real Cash",
             "body": "Play Evermore Cup Tournament",
