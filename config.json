@@ -43,7 +43,7 @@
     },
     "how_it_works":{
       "show": 1,
-      "repeat_duration":"24:00:00",
+      "repeat":1,
       "background":"https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/background_2.png",
       "step_1_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/howitworks.png"
     },
