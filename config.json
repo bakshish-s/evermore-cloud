@@ -22,6 +22,7 @@
     },
     "skillz_intro": {
         "show": 1,
+        "show_button":0,
         "steps_status": [
             1,
             1,
@@ -32,7 +33,7 @@
         "step_2": "",
         "step_3": "",
         "step_4": "This screen can take up to 1-minute to load. Please be patient",
-        "background": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro1.png",
+        "background": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/background_1.png",
         "step_1_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro1.png",
         "step_2_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro2.png",
         "step_3_image": "https://raw.githubusercontent.com/bakshish-s/evermore-cloud/refs/heads/main/skillz_intro3.png",
